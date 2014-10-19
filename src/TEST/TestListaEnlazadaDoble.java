@@ -15,6 +15,7 @@ public class TestListaEnlazadaDoble extends TestCase{
 	}
 
 	
+	
 	private void setupEscenario2(){
 		doble = new Doble<Integer>();
 		
