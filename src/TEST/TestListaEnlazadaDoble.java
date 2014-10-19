@@ -13,6 +13,7 @@ public class TestListaEnlazadaDoble extends TestCase{
 		doble = new ListaDoble.Doble<Integer>();
 		
 	}
+
 	
 	private void setupEscenario2(){
 		doble = new Doble<Integer>();
